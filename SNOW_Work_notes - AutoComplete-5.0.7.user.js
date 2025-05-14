@@ -4,6 +4,8 @@
 // @description  Skrypt odpowiada za automatyczne wpisywanie komentarzy dla serwisu oraz sklepu w zgłoszeniu.
 // @author       Krzysztof Zielonka
 // @match        *://www.jm-hello.com/*
+
+
 // ==/UserScript==
 
 (function() {
@@ -278,7 +280,7 @@
                 buttons.push(createButton("Możliwość wydruku", messagesDRUM, infospz, "button7"));
                 buttons.push(createButton("Jakość wydruku", messagesDRUJ, infospz, "button8"));
             }
-            if (shortDescriptionInput.value.includes("Aplikacje i programy") || shortDescriptionInput.value.includes("Kolektor RF") || shortDescriptionInput.value.includes("Operacja") || shortDescriptionInput.value.includes("Elektroniczne etykiety cenowe") || shortDescriptionInput.value.includes("Telefon")) {
+            if (shortDescriptionInput.value.includes("Aplikacje i programy") || shortDescriptionInput.value.includes("Kolektor RF") || shortDescriptionInput.value.includes("Operacja") || shortDescriptionInput.value.includes("Elektroniczne etykiety cenowe") || shortDescriptionInput.value.includes("Glovo") || shortDescriptionInput.value.includes("Telefon")) {
                 buttons.push(createButton("Wsparcie", messagesOHR, infoDLW, "button9"));
             }
             if (shortDescriptionInput.value.includes("Operacja")) {
