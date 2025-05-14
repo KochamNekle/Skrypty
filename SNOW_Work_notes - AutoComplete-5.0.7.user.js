@@ -12,6 +12,8 @@
 
 (function() {
     'use strict';
+
+    // test
     var messages = [
         "Proszę o diagnostykę i skuteczną naprawę.",
         "Proszę o skuteczną diagnostykę i usunięcie awarii",
