@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name         SNOW_Work_notes - AutoComplete
+// @name         SNOW_WorkNotesAutoComplete
+// @namespace    https://github.com/KochamNekle/Skrypty
 // @version      5.0.7
 // @description  Skrypt odpowiada za automatyczne wpisywanie komentarzy dla serwisu oraz sklepu w zgłoszeniu.
 // @author       Krzysztof Zielonka
 // @match        *://www.jm-hello.com/*
-// @updateURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_Work_notes%20-%20AutoComplete-5.0.7.user.js
-// @downloadURL https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_Work_notes%20-%20AutoComplete-5.0.7.user.js
-
-
+// @updateURL    https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_WorkNotesAutoComplete.user.js
+// @downloadURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_WorkNotesAutoComplete.user.js
+// @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
-//test
+//test //test
     var messages = [
         "Proszę o diagnostykę i skuteczną naprawę.",
         "Proszę o skuteczną diagnostykę i usunięcie awarii",
