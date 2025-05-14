@@ -4,8 +4,8 @@
 // @description  Skrypt odpowiada za automatyczne wpisywanie komentarzy dla serwisu oraz sklepu w zgłoszeniu.
 // @author       Krzysztof Zielonka
 // @match        *://www.jm-hello.com/*
-// @updateURL    https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_Work_notes%20-%20AutoComplete-5.0.7.user.js?token=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
-// @downloadURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_Work_notes%20-%20AutoComplete-5.0.7.user.js?token=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
+// @updateURL    https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_Work_notes%20-%20AutoComplete-5.0.7.user.js
+// @downloadURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_Work_notes%20-%20AutoComplete-5.0.7.user.js
 
 
 // ==/UserScript==
