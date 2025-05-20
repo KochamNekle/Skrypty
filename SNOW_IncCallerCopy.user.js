@@ -5,8 +5,8 @@
 // @description  Kopiowanie numeru incydentu oraz numeru sklepu po kliknięciu
 // @author       Krzysztof Zielonka
 // @match        *://www.jm-hello.com/*
-// @updateURL    https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_IncCallerCopy.user.js
-// @downloadURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_IncCallerCopy.user.js
+// @updateURL    https://github.com/KochamNekle/Skrypty/main/SNOW_IncCallerCopy.user.js
+// @downloadURL  https://github.com/KochamNekle/Skrypty/main/SNOW_IncCallerCopy.user.js
 // @grant        none
 // ==/UserScript==
 
