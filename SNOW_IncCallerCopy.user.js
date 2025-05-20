@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SNOW_IncCallerCopy
 // @namespace    https://github.com/KochamNekle/Skrypty
-// @version      2.0.0
+// @version      2.0.1
 // @description  Kopiowanie numeru incydentu oraz numeru sklepu po kliknięciu
 // @author       Krzysztof Zielonka
 // @match        *://www.jm-hello.com/*
