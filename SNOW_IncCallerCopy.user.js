@@ -5,14 +5,14 @@
 // @description  Kopiowanie numeru incydentu oraz numeru sklepu po kliknięciu
 // @author       Krzysztof Zielonka
 // @match        *://www.jm-hello.com/*
-// @updateURL    https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_INC_Caller_Copy.user.js
-// @downloadURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_INC_Caller_Copy.user.js
+// @updateURL    https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_IncCallerCopy.user.js
+// @downloadURL  https://raw.githubusercontent.com/KochamNekle/Skrypty/main/SNOW_IncCallerCopy.user.js
 // @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
-//test
+//test //test //test //test
     var INCNumber = document.getElementById("sys_readonly.incident.number");
     var INCOpenedBy = document.getElementById("incident.opened_by_label");
     var CallerNumber = document.getElementById("sys_display.incident.caller_id");
